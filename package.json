@@ -1,0 +1,12 @@
+{
+    "name": "docz-problem",
+    "scripts": {
+      "docz:dev": "yarn --cwd ./docz docz dev",
+      "docz:build": "yarn --cwd ./docz docz build",
+      "docz:serve": "yarn --cwd ./docz docz serve"
+    },
+    "dependencies": {
+      "react": "16.8.0",
+      "react-dom": "16.8.0"
+    }
+  }
